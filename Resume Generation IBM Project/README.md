@@ -40,4 +40,4 @@ A simple and smart resume builder made with **HTML**, **CSS**, and **AI**.
 
 ## ❤️ Made By
 
-[Your Name] – Built with HTML, CSS, and love for AI!
+Ashish Modhawala – Built with HTML, CSS, and love for AI!
